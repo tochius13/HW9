@@ -9,7 +9,7 @@
 - toLocaleString()
 
 ## GitHub Pages Link
-PASTE YOUR LINK HERE
+(https://github.com/tochius13/HW9)
 
 ## Screenshot
 ![Screenshot](images/Screenshot.png)
